@@ -1,0 +1,9 @@
+- selector: '#sbi'
+  action: 'type'
+  value: '随便搜索点啥'
+
+- selector: '.searchbox_submit'
+  action: 'click'
+
+
+  

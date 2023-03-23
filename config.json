@@ -1,10 +1,10 @@
 [
     {
-      "description": "创建一个生成订单的脚本",
-      "filename": "create-order.js"
+        "description": "通用程序",
+        "filename": "dsl-executor.js"
     },
     {
-        "description": "描述2",
-        "filename": "script2.js"
+      "description": "创建一个生成订单的脚本",
+      "filename": "create-order.js"
     }
 ]

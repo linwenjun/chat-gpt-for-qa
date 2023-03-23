@@ -1,0 +1,10 @@
+[
+    {
+      "description": "创建一个生成订单的脚本",
+      "filename": "create-order.js"
+    },
+    {
+        "description": "描述2",
+        "filename": "script2.js"
+    }
+]

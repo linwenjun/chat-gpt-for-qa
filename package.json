@@ -13,6 +13,8 @@
   "dependencies": {
     "inquirer": "^9.1.5"
   },
-  "type": "module"
-
+  "type": "module",
+  "engines": {
+    "node": ">=12.0.0"
+  }
 }
